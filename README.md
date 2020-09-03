@@ -1,1 +1,1 @@
-# redux
+# Redux implementation in React
